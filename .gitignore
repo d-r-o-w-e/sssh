@@ -1,0 +1,15 @@
+*.ini
+*.pyc
+*.json
+*.jpg
+*.mp4
+*.blend
+*.blend1
+*.pdf
+.DS_STORE
+models/evora_cut.obj
+results/npys/*.npy
+results/objs/*.obj
+results/pngs/*.png
+src/l1hessian/__pycache__
+scripts/__pycache__

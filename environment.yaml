@@ -1,0 +1,20 @@
+name: sssh
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.5
+  - pip
+  - hole-filling-liepa=0.0.3
+  - matplotlib=3.7.2
+  - numpy=1.24.3
+  - Pillow=9.4.0
+  - scipy=1.11.1
+  - scikit-sparse=0.4.14
+  - pip:
+    - bpy==4.1.0
+    - Mosek==10.1.26
+    - polyscope==2.1.0
+    - opencv-python==4.9.0.80
+    - gpytoolbox==0.3.2
+    - libigl==2.5.1
+    - blendertoolbox==0.0.3
